@@ -66,7 +66,7 @@ const AboutScreen = () => {
             borderRadius="full"
             href="https://www.linkedin.com/in/paarth-sharma-722242232/"
             leftIcon={
-              <Icon as={Feather} name="LinkedIn" size="sm" opacity={0.5} />
+              <Icon as={Feather} name="linkedin" size="sm" opacity={0.5} />
             }
           >
             Let's connect @LinkedIn
