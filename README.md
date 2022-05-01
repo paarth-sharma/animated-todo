@@ -1,17 +1,5 @@
 # Smoothly Animated ToDo App built with React Native
 
-![Thumbnail](./doc/thumb.jpg)
-
-Try the demo on [![Expo Go](./doc/expo-logo.svg)](https://expo.dev/@craftzdog/animated-todo)
-
-The animated checkbox component has been published as [an NPM module `react-native-checkbox-reanimated`](https://github.com/craftzdog/react-native-checkbox-reanimated).
-
-![demo](./doc/checkbox.gif)
-
-## Tutorial
-
-Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="32" />](https://youtu.be/k2h7usLLBhY)
-
 ## Stack
 
 - [React Native](https://reactnative.dev/) - ReactJS-based framework that can use native platform capabilities
@@ -50,6 +38,4 @@ yarn start
 
 ---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
+Loosely based on tutorials by DevAsLife a.k.a Takuya on YouTube.
