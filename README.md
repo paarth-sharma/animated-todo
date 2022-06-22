@@ -3,7 +3,7 @@
 ## Stack
 
 - [React Native](https://reactnative.dev/) - ReactJS-based framework that can use native platform capabilities
-- [Expo](https://expo.dev/) - Toolset for building and delivering RN apps
+- [Expo](https://expo.dev/) - Toolset for building and delivering react native apps
 - [React Navigation(v6)](https://reactnavigation.org/) - Routing and navigation
 - [NativeBase(v3)](https://nativebase.io/) - Themable component library
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) - Animations
